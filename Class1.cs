@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOP_Inheritance
 {
-    class Player : GameCharacter
+    class UnitTest
     {
-        public int lives;
-        public int score;
+        public void RunUnitTests()
+        {
+
+        }
     }
 }

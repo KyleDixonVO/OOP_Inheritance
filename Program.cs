@@ -16,6 +16,7 @@ namespace OOP_Inheritance
             Player player = new Player();
             Enemy enemy = new Enemy();
 
+            player.lives = 3;
             player.health = 100;
             Console.WriteLine("Player Health " + player.health);
             player.TakeDamage(10);
