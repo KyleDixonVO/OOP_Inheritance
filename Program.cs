@@ -10,6 +10,8 @@ namespace OOP_Inheritance
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Inheritance");
+            Console.ReadKey(true);
         }
     }
 }
